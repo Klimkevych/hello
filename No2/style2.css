@@ -1,0 +1,32 @@
+
+.table {
+	background-color: #2B3E50;
+	border: 2px solid  #FFFFFF;
+	width: 100px;
+	height: 100px;
+	color: #FFFFFF;
+	text-align: end;
+	position: relative;
+
+
+}
+.table_1 {
+	background-color: #2B3E50;
+	width: 66px;
+	height: 66px;
+	color:  #FFFFFF;
+	border: 2px solid  #FFFFFF;
+	border-bottom: 1px;
+	text-align: end;
+}
+table {
+	float: left;
+}
+span {
+	position: relative;
+	top: 25px;
+	right: 3px;
+}
+.table span{
+	top: 37px
+}

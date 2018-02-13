@@ -1,0 +1,38 @@
+div {float: left;}
+.box {
+	background-color: #2B3E50;
+	border: 2px solid #FFFFFF;
+	width: 100px;
+	height: 100px;
+	float: left;
+	color: #FFFFFF;
+	text-align: end;
+}
+.box:nth-child(3) {
+	clear: both;
+}
+.container {
+	background-color: #2B3E50;
+	border: 2px solid #FFFFFF;
+	border-bottom: 1px;
+	width: 67px;
+	height: 67px;
+	float: left;
+	text-align: end;
+}
+.container:nth-child(4) {
+	clear: both;
+}
+.container:nth-child(7) {
+	clear: both;}
+span {
+	color: #FFFFFF;
+	position: relative;
+	top: 50px;
+	right: 3px;
+	
+}
+.box span {
+	position: relative;
+	top: 80px;
+}
